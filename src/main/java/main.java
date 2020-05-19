@@ -11,3 +11,4 @@ public class main {
         System.out.println(cuenta001.getTipo());
     }
 }
+/*Agregando comentario de prueba*/
