@@ -9,6 +9,8 @@ public class main {
         cuenta001 = new Cuenta("Emir","Aveneu",1000,"Ahorro");
         System.out.println(cuenta001.getNombre());
         System.out.println(cuenta001.getTipo());
+        System.out.println(cuenta001.getSaldo());
+        System.out.println(cuenta001.getDireccion());
     }
 }
 /*Agregando comentario de prueba*/
